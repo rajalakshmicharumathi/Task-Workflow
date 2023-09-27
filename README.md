@@ -64,7 +64,6 @@ Database : **MYSQL**
 5. Update the mysql credentials in config.js file
 6. Run the node task.js command app start working in the below url http://localhost:9009/
 7. Use the postman collection to test the api.
-   https://api.postman.com/collections/23059784-59411e06-d78d-44b6-849f-ff8e809659e3?access_key=PMAT-01HBARG4TNSP49Z5WRRXEQRRDW
 
 
     
